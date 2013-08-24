@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: cp1252 -*-
 
 import RPi.GPIO as GPIO
 from time import sleep
